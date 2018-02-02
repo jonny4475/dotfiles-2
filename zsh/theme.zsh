@@ -1,2 +1,3 @@
 #prompt skwp
-prompt sorin
+#prompt sorin
+prompt steeef_simplified
